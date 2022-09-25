@@ -5,10 +5,13 @@
      "forceConsistentCasingInFileNames": true,
      "skipLibCheck": true,
      "checkJs": true,
+     "moduleResolution": "Node16",
      "allowJs": true,
      "declaration": true,
      "declarationMap": true,
      "allowSyntheticDefaultImports": true
    },
-   "files": ["../src/index.ts"]
+   "files": [
+     "./src/index.ts"
+   ]
  }
